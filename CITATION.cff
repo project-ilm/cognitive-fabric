@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+
+title: Cognitive Fabric
+
+message: Please cite this repository.
+
+authors:
+
+- family-names: Choudhary
+  given-names: Abhishek
+
+license: Apache-2.0
+
+version: 0.1.0-dev
