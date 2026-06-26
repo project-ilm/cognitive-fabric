@@ -1,0 +1,3 @@
+# Contributing
+
+Pull Requests welcome.
